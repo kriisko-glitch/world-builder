@@ -1,0 +1,302 @@
+{
+  "world_slug": "tropical-beach",
+  "source_image": "test-beach.jpg",
+  "style": {
+    "anchor": "Wind Waker cel-shaded / Mario Sunshine cartoon",
+    "theme": "tropical",
+    "palette": [
+      "#e8d5a3",
+      "#3aa6b8",
+      "#2d8a6e",
+      "#f5f0e0",
+      "#8B5E3C",
+      "#87CEEB"
+    ],
+    "level_of_stylization": "high",
+    "shading": "toon",
+    "lighting": "golden-hour"
+  },
+  "terrain": {
+    "shape": "shoreline",
+    "ground_type": "sand",
+    "water": {
+      "present": true,
+      "level_z": -0.05,
+      "type": "ocean"
+    },
+    "size_meters": [
+      32,
+      32
+    ],
+    "feature_notes": "Curved white sand beach sloping gently into crystal-clear turquoise ocean. Shoreline arcs from foreground-left to mid-right. The far horizon is open ocean under blue sky with light clouds. Sandy dunes at the edges frame the scene."
+  },
+  "objects": [
+    {
+      "id": "palm-tall",
+      "name": "Tall curved palm tree",
+      "type": "tree",
+      "count": 3,
+      "approx_positions": [
+        [
+          8,
+          2
+        ],
+        [
+          10,
+          -1
+        ],
+        [
+          7,
+          4
+        ]
+      ],
+      "scale_hint": "tall",
+      "asset_hint": "Poly Haven tropical palm or Kenney palm (CC0)"
+    },
+    {
+      "id": "palm-short",
+      "name": "Shorter bent palm tree",
+      "type": "tree",
+      "count": 2,
+      "approx_positions": [
+        [
+          12,
+          0
+        ],
+        [
+          11,
+          3
+        ]
+      ],
+      "scale_hint": "medium",
+      "asset_hint": "Quaternius cartoon palm or Poly Haven (CC0)"
+    },
+    {
+      "id": "rock-round",
+      "name": "Round weathered beach rock",
+      "type": "rock",
+      "count": 6,
+      "approx_positions": [
+        [
+          -3,
+          4
+        ],
+        [
+          -5,
+          2
+        ],
+        [
+          -2,
+          5
+        ],
+        [
+          -4,
+          3
+        ],
+        [
+          -1,
+          4
+        ],
+        [
+          -6,
+          1
+        ]
+      ],
+      "scale_hint": "small",
+      "asset_hint": "Quaternius rock pack or Poly Haven boulders (CC0)"
+    },
+    {
+      "id": "rock-large",
+      "name": "Large shoreline boulder",
+      "type": "rock",
+      "count": 2,
+      "approx_positions": [
+        [
+          -7,
+          -2
+        ],
+        [
+          -8,
+          1
+        ]
+      ],
+      "scale_hint": "large",
+      "asset_hint": "Poly Haven boulders (CC0)"
+    },
+    {
+      "id": "seashell",
+      "name": "Scattered seashell",
+      "type": "prop",
+      "count": 5,
+      "approx_positions": [
+        [
+          1,
+          -4
+        ],
+        [
+          2,
+          -3
+        ],
+        [
+          3,
+          -5
+        ],
+        [
+          0,
+          -2
+        ],
+        [
+          4,
+          -4
+        ]
+      ],
+      "scale_hint": "tiny",
+      "asset_hint": "Kenney props or procedural cone mesh"
+    },
+    {
+      "id": "starfish",
+      "name": "Beached starfish",
+      "type": "prop",
+      "count": 2,
+      "approx_positions": [
+        [
+          -1,
+          -3
+        ],
+        [
+          3,
+          -1
+        ]
+      ],
+      "scale_hint": "tiny",
+      "asset_hint": "Quaternius props or procedural 5-point star"
+    },
+    {
+      "id": "driftwood",
+      "name": "Weathered driftwood log",
+      "type": "prop",
+      "count": 3,
+      "approx_positions": [
+        [
+          -2,
+          -1
+        ],
+        [
+          5,
+          -5
+        ],
+        [
+          -4,
+          -4
+        ]
+      ],
+      "scale_hint": "medium",
+      "asset_hint": "UE5 cylinder + custom material, or Poly Haven log"
+    },
+    {
+      "id": "cloud-puffy",
+      "name": "White puffy cloud",
+      "type": "water_feature",
+      "count": 6,
+      "approx_positions": [
+        [
+          -10,
+          8
+        ],
+        [
+          -4,
+          10
+        ],
+        [
+          3,
+          9
+        ],
+        [
+          10,
+          7
+        ],
+        [
+          -7,
+          6
+        ],
+        [
+          6,
+          11
+        ]
+      ],
+      "scale_hint": "large",
+      "asset_hint": "UE5 Volumetric Clouds or sky card meshes"
+    },
+    {
+      "id": "beach-grass",
+      "name": "Coastal dune grass clump",
+      "type": "vegetation",
+      "count": 8,
+      "approx_positions": [
+        [
+          -9,
+          5
+        ],
+        [
+          -10,
+          3
+        ],
+        [
+          13,
+          5
+        ],
+        [
+          14,
+          2
+        ],
+        [
+          -8,
+          -5
+        ],
+        [
+          12,
+          -5
+        ],
+        [
+          -3,
+          6
+        ],
+        [
+          5,
+          6
+        ]
+      ],
+      "scale_hint": "small",
+      "asset_hint": "Quaternius vegetation pack or Poly Haven grass (CC0)"
+    },
+    {
+      "id": "tiki-hut",
+      "name": "Small tiki beach hut with thatched roof",
+      "type": "structure",
+      "count": 1,
+      "approx_positions": [
+        [
+          -4,
+          7
+        ]
+      ],
+      "scale_hint": "medium",
+      "asset_hint": "Quaternius buildings or Poly Haven hut (CC0)"
+    }
+  ],
+  "camera": {
+    "framing": "eye-level",
+    "focal_length_mm": 35,
+    "position_hint": [
+      0,
+      -12,
+      1.6
+    ],
+    "look_at": [
+      0,
+      4,
+      0.8
+    ]
+  },
+  "created_at": "2026-06-21T02:05:18.446010Z"
+}

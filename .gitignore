@@ -18,8 +18,12 @@ venv/
 .env
 *.env
 
-# Worlds (generate locally, not in repo)
+# Worlds — track metadata, not generated content
 worlds/*/
+!worlds/*/plan.json
+!worlds/*/asset-map.json
+worlds/*/assets/
+worlds/*/screenshots/
 !worlds/.gitkeep
 
 # Input

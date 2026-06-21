@@ -1,0 +1,112 @@
+{
+  "palm-tall": {
+    "source": "polyhaven.com",
+    "asset_id": "island_tree_01",
+    "url": "https://polyhaven.com/a/island_tree_01",
+    "download_url": "https://polyhaven.com/a/island_tree_01/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Island Tree 01",
+    "polycount": 3729692,
+    "note": "Best CC0 tropical tree from Poly Haven. Generic broad-leaf island tree (not a true palm). For true palm trees use Quaternius Ultimate Stylized Nature pack or Kenney Pirate Kit. Alternative: Poly Pizza palm at https://poly.pizza/m/A6cKJYFsIb"
+  },
+  "palm-short": {
+    "source": "polyhaven.com",
+    "asset_id": "island_tree_02",
+    "url": "https://polyhaven.com/a/island_tree_02",
+    "download_url": "https://polyhaven.com/a/island_tree_02/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Island Tree 02",
+    "polycount": 1762064,
+    "note": "Shorter tropical island tree. Alternative: Quaternius cartoon palm or Poly Pizza palm at https://poly.pizza/m/e0AbYA90ux5"
+  },
+  "rock-round": {
+    "source": "polyhaven.com",
+    "asset_id": "sand_rocks_small_01",
+    "url": "https://polyhaven.com/a/sand_rocks_small_01",
+    "download_url": "https://polyhaven.com/a/sand_rocks_small_01/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Sand Rocks Small 01",
+    "polycount": 1386500,
+    "note": "Small weathered rocks on sand - perfect beach rock match. Also alternative: namaqualand_stones_01, stone_01, rock_07, rock_09 for variety"
+  },
+  "rock-large": {
+    "source": "polyhaven.com",
+    "asset_id": "boulder_01",
+    "url": "https://polyhaven.com/a/boulder_01",
+    "download_url": "https://polyhaven.com/a/boulder_01/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Boulder 01",
+    "polycount": 123976,
+    "note": "Large rounded boulder with lichen. Also alternative: coast_rocks_01/02/03 for shoreline boulders"
+  },
+  "seashell": {
+    "source": "polyhaven.com",
+    "asset_id": "lambis_shell",
+    "url": "https://polyhaven.com/a/lambis_shell",
+    "download_url": "https://polyhaven.com/a/lambis_shell/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Lambis Shell",
+    "polycount": 12498,
+    "note": "Excellent seashell model - conch/lambis type with beach/shore tags. Perfect match."
+  },
+  "starfish": {
+    "source": "poly.pizza",
+    "asset_id": "6H-0K9IEr56",
+    "url": "https://poly.pizza/m/6H-0K9IEr56",
+    "download_url": "https://poly.pizza/m/6H-0K9IEr56",
+    "format": "glb",
+    "license": "CC0",
+    "name": "Starfish (search result)",
+    "polycount": "unknown",
+    "note": "Poly Pizza search result for starfish. License is CC0 (Poly Pizza default). Alternative: Sketchfab CC0 search or procedural 5-point star mesh. Also check Quaternius props packs."
+  },
+  "driftwood": {
+    "source": "polyhaven.com",
+    "asset_id": "dead_tree_trunk",
+    "url": "https://polyhaven.com/a/dead_tree_trunk",
+    "download_url": "https://polyhaven.com/a/dead_tree_trunk/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Dead Tree Trunk",
+    "polycount": 101802,
+    "note": "Weathered dead tree trunk with bark, excellent for driftwood. Alternate: bark_debris_01 (drier/dead wood), dead_tree_trunk_02 (larger), dead_quiver_branch_02 (driftwood-like branch)"
+  },
+  "cloud-puffy": {
+    "source": "poly.pizza",
+    "asset_id": "b3Kia9N2fS2",
+    "url": "https://poly.pizza/m/b3Kia9N2fS2",
+    "download_url": "https://poly.pizza/m/b3Kia9N2fS2",
+    "format": "glb",
+    "license": "CC0",
+    "name": "Cloud (search result)",
+    "polycount": "unknown",
+    "note": "Poly Pizza search result for cloud. CC0 licensed. Best alternative: UE5 built-in Volumetric Clouds system or sky card meshes (procedural, no download needed). Also check Kenney sky pack."
+  },
+  "beach-grass": {
+    "source": "polyhaven.com",
+    "asset_id": "grass_bermuda_01",
+    "url": "https://polyhaven.com/a/grass_bermuda_01",
+    "download_url": "https://polyhaven.com/a/grass_bermuda_01/gltf",
+    "format": "gltf",
+    "license": "CC0",
+    "name": "Grass Bermuda 01",
+    "polycount": 223596,
+    "note": "Dune/coastal grass clump from Smugglers Cove collection. Perfect beach dune grass. Alternative: grass_medium_01, grass_medium_02, flower_heliophila for variety"
+  },
+  "tiki-hut": {
+    "source": "poly.pizza",
+    "asset_id": "wxi3kAu5ey",
+    "url": "https://poly.pizza/m/wxi3kAu5ey",
+    "download_url": "https://poly.pizza/m/wxi3kAu5ey",
+    "format": "glb",
+    "license": "CC0",
+    "name": "Tiki Hut (search result)",
+    "polycount": "unknown",
+    "note": "Poly Pizza search result for tiki hut. CC0 licensed. Alternative: Quaternius Pirate Kit (has thatched structures), Kenney Pirate Kit (has tiki-style buildings), or build procedurally from cylinders + cone roof"
+  }
+}
